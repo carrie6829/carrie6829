@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi there! 👋 I'm Carrie 
+
+🎓 **Applied Statistics | Harbin Institute of Technology**  
+📊 **Data Analysis | Product Management | AI**  
+🚀 **Passionate about AI, Data Science, and Technology**  
+
+🌱 **Currently Learning**: Graph Neural Networks & AI Product Management  
+💡 **Looking for Opportunities**: Data Science, Product Management, and AI  
 
 <!--
 **carrie6829/carrie6829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
